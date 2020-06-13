@@ -19,11 +19,9 @@ the information for the coronavirus manually onto the washington states County
 geojson using [geojson.io](geojson.io).
 
 
-Here are the applied libraries that I used. It is only leaflet. 
+Here are the applied libraries that I used. It is only leaflet.
 <pre><code>
-
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"/>
-
 <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
